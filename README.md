@@ -67,6 +67,14 @@ git clone https://github.com/Karthen/kartest.git
   - The Firebase project used to generate `google-services.json`
   - And the Firebase Admin SDK JSON uploaded to the CleverTap Push configuration
 
+###What I tried to solve:
+1. Check if the the ID in the file is equal than the Project on Fire Base Dashboard 
+2. Downloaded, again, the `google-services.json` from Firebase Dashboard (Project > Cloud Messaging settings) and moved again to /app folder.
+3. Tried to reupload on Clever Tap Dashboard (Settings > Channels > Mobile push /Android), but I faced the error `Try again later` (image below).
+![image](https://github.com/user-attachments/assets/aabb1969-cb40-4366-bebe-5557821b2df4)
+
+Instead, there is the green check on Clever dash. Very curious.
+
 > This will be discussed during the interview for further clarification.
 
 ---
